@@ -31,8 +31,12 @@ name,outputs,etc
 student@sjcet-Veriton-S2690G   change this college id to your college id 
 
 <br>
+
 Use this online complier(if ypu don't have any compiler)
 
-          https://onecompiler.com/html/42qqkf33x
+
+<br>
+
+    https://onecompiler.com/html/42qqkf33x
 
 
